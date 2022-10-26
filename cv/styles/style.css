@@ -1,0 +1,35 @@
+@media(min-width: 800px) {
+	.columns, .banner {
+		display: flex;
+		justify-content: space-around;
+	}
+}
+
+body {
+	background-color: #dcdcdc;
+	font-family: Arial;
+}
+
+h1, h2, h3 {
+	text-shadow: 2px 2px LightSteelBlue;
+}
+
+.centered {
+	text-align: center;
+}
+
+.bulletpoints {
+	width: 30%;
+}
+
+.links {
+	width: 15%;
+}
+
+#alignleft {
+	margin-left: 35%;
+}
+
+#alignright {
+	margin-right: 35%;
+}
