@@ -1,0 +1,35 @@
+body {
+    color: midnightblue;
+    background-color: antiquewhite;
+}
+
+input {
+    border: 4px solid midnightblue;
+    background-color: moccasin;
+}
+
+button {
+    color: midnightblue;
+    border: 4px solid midnightblue;
+    background-color: moccasin;
+}
+
+.centered {
+    text-align: center;
+}
+
+#buffer {
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+#banner {
+    height: 100px;
+    background-color: thistle;
+}
+
+#main {
+    height: 300px;
+    background-color: paleturquoise;
+    justify-content: space-between;
+}
