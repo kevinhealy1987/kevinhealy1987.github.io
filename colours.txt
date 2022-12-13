@@ -1,0 +1,8 @@
+Blue:			#283d80
+Pale Gold:		#b8a360
+Light Grey:		#d9dce3
+				#f1f2f5
+
+Other Blues:	#203e7c
+				#1360ae
+Other Yellows:	#fcc50f
